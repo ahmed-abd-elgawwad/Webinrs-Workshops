@@ -17,6 +17,6 @@ Welcome to my repository for webinars and workshops! Here, you'll find all the m
 
 | Type                | Link                                                                 |
 | ------------------- | -------------------------------------------------------------------- |
-| Presentation Slides | [Download](https://github.com/ahmed-abd-elgawwad/Webinrs-Workshops/blob/main/PowerPoint%20as%20pdf/RES%20Webinar.pdf) | 
+| Presentation Slides | [Download](https://github.com/ahmed-abd-elgawwad/Webinrs-Workshops/blob/main/Practice%20ML%20with%20little%20to%20no-code%20for%20petroleum%20engineers/PowerPoint%20as%20pdf/RES%20Webinar.pdf) | 
 | Datasets            | [Browse](https://github.com/ahmed-abd-elgawwad/Webinrs-Workshops/tree/main/Practice%20ML%20with%20little%20to%20no-code%20for%20petroleum%20engineers/Data%20Used) |
 | Recording           | [Watch](https://www.youtube.com/live/y4JjWMSNBeU?si=SnPOZubOrgH_CRPI) | 
