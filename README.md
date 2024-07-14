@@ -4,9 +4,9 @@ Welcome to my repository for webinars and workshops! Here, you'll find all the m
 
 ## Table of Contents
 
-| Webinar Title                                        | Date         | Duration | Overview                                                               | Materials |
-| ---------------------------------------------------- | ------------ | -------- | ---------------------------------------------------------------------- | --------- |
-| [Introduction to Machine Learning for Petroleum Engineering](#introduction-to-machine-learning-for-petroleum-engineering) | July 6, 2024 | 1 hour   | Basics of machine learning and practical examples using Orange software. | [Materials](#introduction-to-machine-learning-for-petroleum-engineering-materials) |
+| Webinar Title                                        | Date         | Duration | Overview                                                               |
+| ---------------------------------------------------- | ------------ | -------- | ---------------------------------------------------------------------- |
+| Practice Ml with little to no-code for petroleum engineers | July 13, 2024 | 1.5 hours   | Basics of machine learning and practical examples using Orange software. |
 ---
 
 ## Webinars
